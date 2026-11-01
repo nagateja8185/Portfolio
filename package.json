@@ -1,0 +1,13 @@
+{
+  "name": "nagateja-portfolio",
+  "version": "1.0.0",
+  "description": "Thimmapur Nagateja Goud — Cybersecurity Engineer, Threat Detection & AI/ML Portfolio",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "contributions": "node scripts/fetch-contributions.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}
