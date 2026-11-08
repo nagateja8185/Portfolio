@@ -1,6 +1,6 @@
 # Thimmapur Nagateja Goud — Portfolio
 
-> **Cybersecurity Engineer · AI/ML Threat Detection · Information Security**  
+> **Cybersecurity · Full-Stack Development · AI/ML · Threat Detection**  
 > B.Tech in Computer Science Engineering (Information Security) at **Vellore Institute of Technology (VIT), Vellore** (2023 – 2027) · CGPA: 7.96/10.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3)](https://nagateja8185.github.io/)
@@ -12,11 +12,11 @@
 
 ## 🛡️ About Me
 
-Information Security student specializing in **Artificial Intelligence in Cybersecurity**, **threat detection**, **malware reverse engineering**, and **cryptographic systems**. Experienced in building explainable threat intelligence pipelines, static/dynamic PE file triage, multi-turn behavioral harassment detection, and tamper-resistant steganographic communications.
+Information Security student, full-stack developer, and creative technologist specializing in **Artificial Intelligence in Cybersecurity**, **threat detection**, **full-stack software systems**, **malware reverse engineering**, and **cryptographic architectures**. Experienced in building explainable threat intelligence pipelines, static/dynamic PE file triage, multi-turn behavioral harassment detection, and tamper-resistant steganographic communications.
 
 - 🎓 **Education**: B.Tech CSE (Information Security) at **Vellore Institute of Technology (VIT), Vellore** (Aug 2023 – Jul 2027)
 - 💼 **Experience**: Artificial Intelligence & Machine Learning Intern at **Elythra Edufyi Tech Solutions, Bangalore** (May 2025 – Jun 2025)
-- 🎯 **Career Goal**: Cybersecurity Engineering Internship focused on threat detection, security automation, vulnerability assessment, SOC, and AI-driven security.
+- 🎯 **Career Goal**: Cybersecurity Engineering or Software Engineering / Full-Stack Internship focused on threat detection, security automation, resilient architectures, SOC, and AI-driven platforms.
 
 ---
 
@@ -49,8 +49,9 @@ Information Security student specializing in **Artificial Intelligence in Cybers
 | Domain | Technologies & Frameworks |
 |---|---|
 | **Cybersecurity** | Malware Analysis, Threat Detection & Hunting, Cryptography, Network Security, TCP/IP, Firewalls, IDS/IPS, VPN, OWASP Top 10, Vulnerability Assessment, Authentication, RBAC |
+| **Full-Stack & Web** | JavaScript (ES6+), HTML5, Modern CSS3 (@layer, clamp, tokens), REST APIs, Node.js, Responsive UI/UX |
 | **Security Tools** | Wireshark, Nmap, Burp Suite, Linux / Kali Linux, Git, GitHub, VS Code |
-| **Programming** | Python (Primary for ML & Security Tooling), Java, C, C++, SQL |
+| **Programming** | Python (Primary for ML & Security Tooling), JavaScript, Java, C, C++, SQL |
 | **AI / ML** | Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Classification, Anomaly Detection, NLP, Feature Engineering, SHAP (Explainable AI) |
 | **Protocols & Infra** | TCP/IP, DNS, HTTP/HTTPS, SSL/TLS, SSH, Docker, SQLite, REST APIs |
 | **CS Fundamentals** | Data Structures & Algorithms, Computer Networks, Operating Systems, DBMS, Information Security |
@@ -62,10 +63,10 @@ Information Security student specializing in **Artificial Intelligence in Cybers
 - **Google Cybersecurity Professional Certificate** — Coursera
 - **IBM Cybersecurity Analyst Professional Certificate** — Coursera
 - **Introduction to Cybersecurity** — Cisco Networking Academy
-- **Cyber Job Simulation** — Deloitte
-- **IBM Data Analysis with Python** — [IBM Cognitive Class](cretificates/IBM_Data_Analysis_with_Python_Certificate.pdf)
-- **AI/ML Internship Completion Certificate** — [Elythra Edufyi Tech Solutions / DICE ID](cretificates/DICE ID Skill Credential.jpg)
-- **IBM SkillsBuild – Internship Completion Certificate** — [IBM SkillsBuild](cretificates/IBM_SKILL_BUILD.pdf)
+- **Cyber Job Simulation** — [Deloitte](certificates/Deloitte_cyber_completion_certificate.pdf)
+- **IBM Data Analysis with Python** — [IBM Cognitive Class](certificates/IBM_Data_Analysis_with_Python_Certificate.pdf)
+- **AI/ML Internship Completion Certificate** — [Elythra Edufyi Tech Solutions / DICE ID](certificates/DICE ID Skill Credential.jpg)
+- **IBM SkillsBuild – Internship Completion Certificate** — [IBM SkillsBuild](certificates/IBM_SKILL_BUILD.pdf)
 
 ---
 

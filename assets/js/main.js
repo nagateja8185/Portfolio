@@ -10,8 +10,8 @@ const finePointer = window.matchMedia("(hover: hover) and (pointer: fine)");
 /* --------------------------------------------------------------- Intro --- */
 // Only play the opening sequence once per session.
 try {
-  if (sessionStorage.getItem("tg-intro")) document.documentElement.classList.add("no-intro");
-  sessionStorage.setItem("tg-intro", "1");
+  if (sessionStorage.getItem("ng-intro")) document.documentElement.classList.add("no-intro");
+  sessionStorage.setItem("ng-intro", "1");
 } catch { /* storage blocked — intro just plays */ }
 
 const introDelay = document.documentElement.classList.contains("no-intro") || reduceMotion.matches ? 0 : 900;
@@ -24,13 +24,22 @@ function initNav() {
   const nav = $("[data-nav]");
   const toggle = $("[data-menu-toggle]");
   const menu = $("[data-menu]");
+  const heroScroll = $("[data-hero-scroll]");
   if (!nav || !toggle || !menu) return;
+
+  heroScroll?.addEventListener("click", (e) => {
+    e.preventDefault();
+    $("#about")?.scrollIntoView({ behavior: "smooth" });
+  });
 
   let lastY = window.scrollY;
   let ticking = false;
   const onScroll = () => {
     const y = window.scrollY;
     nav.classList.toggle("is-scrolled", y > 24);
+    if (heroScroll) {
+      heroScroll.classList.toggle("is-scrolled-out", y > 35);
+    }
     // hide on scroll down, reveal on scroll up — never while the menu is open
     nav.classList.toggle("is-hidden", y > 480 && y > lastY + 4);
     if (y < lastY - 4) nav.classList.remove("is-hidden");
